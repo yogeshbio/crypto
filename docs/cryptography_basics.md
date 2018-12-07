@@ -1,0 +1,6 @@
+* Cryptography could be divided into Symmetric and Asymmetric (or public key) cryptography.
+
+    * Symmetric cryptography is further divided as Block and Stream cipher.
+
+        * **Block cipher:** Works on blocks of data and slower than stream cipher. It uses math operations such as Substituition and Transposition of elements E.g. DES, 3DES, AES
+        * **Stream cipher:**  Works on stream of data either 1 bit or 8 bit and is much faster
