@@ -1,10 +1,8 @@
-site_name: none
+site_name: Crypto
 site_url: https://github.com/yogk?tab=repositories
 site_description: Project documentation with Markdown.
 site_author: Yogesh Kulkarni
-
-
 nav:
-    - Home: index.md
-    - User Guide:
-        - cryptography_basics: cryptography_basics.md
+  - Home: index.md
+  - Cryptography_Basics: cryptography_basics.md
+theme: readthedocs
